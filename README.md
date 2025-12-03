@@ -1,6 +1,7 @@
 # flutter_application_2
 
-A new Flutter project.
+A ~~new~~ Flutter project.
+**YANG LAMA RUSAK MISS 😭🙏**
 
 ## Getting Started
 
